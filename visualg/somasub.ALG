@@ -13,7 +13,7 @@ Inicio
             leia(b)
             c<-(a+b)
             escreval("soma: ", c)
-       senao menu   = "subt"  entao
+       senao
             escreval ("digite um numero")
             leia(a)
             escreval ("digite um numero")
