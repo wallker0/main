@@ -6,7 +6,10 @@ var
    i : inteiro
    
 inicio
-
+      
+      //Recebe nome e 4 notas
+      //Calcula e informa a média
+      
       escreva("Digite o nome do aluno: ")
       leia(nome)
 
@@ -17,6 +20,6 @@ inicio
       fimpara
       
       limpatela
-      escreva("Aluno: ",nome,". M�dia:", (n/4))
+      escreva("Aluno: ",nome,". Média:", (n/4))
       
 fimalgoritmo
