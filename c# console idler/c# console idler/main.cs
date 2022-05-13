@@ -78,8 +78,7 @@ namespace crpg {
             Console.ResetColor();
         }
 
-        public void writec(string s, ConsoleColor c)
-        {
+        public void writec(string s, ConsoleColor c) {
             Console.ForegroundColor = c;
             Console.Write(s);
             Console.ResetColor();
