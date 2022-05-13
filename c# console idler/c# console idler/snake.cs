@@ -9,8 +9,8 @@ using System.IO;
 using System.Xml.Serialization;
 
 
-namespace crpg
-{
+namespace crpg {
+    
     class snake {
 
         int height = 30;
