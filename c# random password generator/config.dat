@@ -1,0 +1,10 @@
+//use config file:
+true
+//length:
+10
+//include numbers:
+true
+//final char = only numbers:
+true
+//initial char = only letters:
+true
