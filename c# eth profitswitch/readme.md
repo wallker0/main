@@ -4,8 +4,8 @@
 
 ***.net framework 4.5+ required***
 
-Web-scrap values to calculate roi, profit and revenue 
-and turn on/off local network ETH mining rigs.
+Web-scrap values to calculate roi, profit and revenue
+turn on/off local network ETH mining rigs.
 
 to execute at startup, put 'logon.bat' shortcut inside 
 windows startup programs folder.
