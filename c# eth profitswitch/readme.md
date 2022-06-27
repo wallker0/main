@@ -1,5 +1,7 @@
 [c# eth profitswitch]
 
+![Screenshot_1](https://user-images.githubusercontent.com/42736457/176031236-d5a745a2-7c13-49fb-929c-645a1b7bf465.png)
+
 ***.net framework 4.5+ required***
 
 Web-scrap values to calculate roi, profit and revenue 
