@@ -1,0 +1,1 @@
+start profitSwitch.exe
