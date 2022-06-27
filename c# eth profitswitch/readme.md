@@ -11,7 +11,7 @@ to execute at startup, put 'logon.bat' shortcut inside
 windows startup programs folder.
 
 In this version its only possible to see the outputs in BRL currency,
-might consider adding USD fixed later.
+might consider adding USD toggle later.
 
 [profitswitch]
 - profitswitch.exe
